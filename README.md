@@ -1,2 +1,3 @@
-# Javaproject
-Sample java project to setup CI/CD setup
+# maven-project
+
+Simple Maven Project
